@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
+        //Manavdaki ürünler
         double cucumber = 3.14;
         double apple = 4.11;
         double pumpkin = 2.22;
